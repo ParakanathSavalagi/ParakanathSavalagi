@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Advance VLSI Design and Verification**
 
-- 💬 Ask me about **Digital Design,Verilog,Static Timing Analysis**
+- 💬 Ask me about **Digital Design,Verilog,Static Timing Analysis, SystemVerilog, UVM**
 
 - 📫 How to reach me **parakanathsavalagi@gmail.com**
 
